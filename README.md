@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Barun Gambhir
--
+- 👋 Hi, I’m Barun
 
 <!---
 barunGambhir/barunGambhir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
